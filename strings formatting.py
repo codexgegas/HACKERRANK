@@ -1,4 +1,4 @@
-Given an integer, , print the following values for each integer  from  to :
+##Given an integer, , print the following values for each integer  from  to :
 
 Decimal
 Octal
@@ -44,7 +44,7 @@ Sample Output
    16    20    10 10000
    17    21    11 10001
    
- CODE- 
+ CODE- ##
  
  ==========PYTHON_3====-========================================================================
    def print_formatted(number):
