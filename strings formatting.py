@@ -1,6 +1,6 @@
 ##Given an integer, , print the following values for each integer  from  to :
 
-Decimal
+"""Decimal
 Octal
 Hexadecimal (capitalized)
 Binary
@@ -42,9 +42,9 @@ Sample Output
    14    16     E  1110
    15    17     F  1111
    16    20    10 10000
-   17    21    11 10001
+   17    21    11 10001"""
    
- CODE- ##
+ #CODE- 
  
  ==========PYTHON_3====-========================================================================
    def print_formatted(number):
